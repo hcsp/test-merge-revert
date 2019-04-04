@@ -1,2 +1,3 @@
-# test-merge-revert
-This is a repository for internal use. Do not star/fork/submit pull request.
+## WARNING
+
+This is a repository only for internal use. Do not star/fork/submit pull request.
